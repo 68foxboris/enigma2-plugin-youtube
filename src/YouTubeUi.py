@@ -21,6 +21,7 @@ from Screens.MessageBox import MessageBox
 from Screens.Screen import Screen
 from Tools.BoundFunction import boundFunction
 from Tools.Directories import resolveFilename, SCOPE_HDD, SCOPE_PLUGINS
+from Tools.LoadPixmap import LoadPixmap
 
 from . import _
 from YouTubeApi import GetKey
